@@ -4,17 +4,6 @@ This repository contains a project that detects **overlapping communities** in r
 
 ---
 
-## 📁 Repository Contents
-
-| File/Folder | Description |
-|-------------|-------------|
-| `air_transport_mutiplex_dataset.ipynb` | Main notebook for data preparation and community detection using VGAE + CPM |
-| `air_transport_mutiplex_dataset2.ipynb` | Auxiliary or experimental notebook for variation/analysis |
-| `OCD_in_multiplex_networks.pptx` | Presentation slides summarizing the project, methodology, and results |
-| `OCD_Overlapping_Communities_Report.docx` | Full report documenting background, implementation, results, and evaluation |
-
----
-
 ## 📊 Dataset
 
 The project uses a **real-world multiplex airport network dataset** provided by:
